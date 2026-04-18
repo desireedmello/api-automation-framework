@@ -207,7 +207,3 @@ Desiree D’Mello
 Full-Stack Engineer | QA Automation | AI Enthusiast  
 
 ---
-
-## 📌 Notes
-
-This project is built as a portfolio-ready API automation framework demonstrating enterprise-level QA engineering practices used in modern software teams.

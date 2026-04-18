@@ -190,7 +190,7 @@ They include:
 
 Below is an example of the automated test report generated after execution:
 
-![Test Report](report-screenshot.png)
+![Test Report](docs/report-screenshot.png)
 
 ---
 

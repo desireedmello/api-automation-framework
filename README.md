@@ -192,12 +192,6 @@ Below is an example of the automated test report generated after execution:
 
 ![Test Report](docs/report-screenshot.png)
 
-### CI Pipeline
-
-Every push triggers automated test execution via GitHub Actions:
-
-![CI Pipeline](docs/ci-screenshot.png)
-
 ---
 
 ## 🧠 What This Project Demonstrates

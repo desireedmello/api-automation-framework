@@ -184,6 +184,22 @@ They include:
 
 ---
 
+## 📸 Test Execution Report
+
+### HTML Test Report
+
+Below is an example of the automated test report generated after execution:
+
+![Test Report](docs/report-screenshot.png)
+
+### CI Pipeline
+
+Every push triggers automated test execution via GitHub Actions:
+
+![CI Pipeline](docs/ci-screenshot.png)
+
+---
+
 ## 🧠 What This Project Demonstrates
 
 This framework demonstrates API automation engineering, reusable architecture design, real-world testing patterns, debugging with logging, and scalable QA automation practices used in enterprise environments.
